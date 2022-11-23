@@ -1,9 +1,7 @@
 # AimSprint
 sprint repository
-####################################################
-##                                                ##
-##                                                ##
-        Cloud Application Programming Model      
-##                                                ##
-##                                                ##
-####################################################
+
+
+
+
+Cloud Application Programming Model      
